@@ -5,7 +5,8 @@ __pycache__/
 
 # C extensions
 *.so
-
+backend/my_env/
+backend/skin_cancer_model.tflite
 # Distribution / packaging
 .Python
 build/
